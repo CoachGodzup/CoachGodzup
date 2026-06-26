@@ -2,6 +2,8 @@
 > "Professional Key Stroker & Streamer — breaking pipelines since 2014"
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteogarza/)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:matteo.garza@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QHOlflU2f6wxYjI0)
 
 I'm Matteo, a frontend developer who breaks code, handles legacy stuff, and strokes keys all day (and sometimes nights).
 With 10+ years of experience, I've seen things that you humans and AIs could only imagine.
