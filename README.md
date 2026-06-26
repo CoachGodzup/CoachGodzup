@@ -1,15 +1,17 @@
 # Matteo Garza
 > "Professional Key Stroker & Streamer — breaking pipelines since 2014"
 
+![Join me](https://img.shields.io/badge/Join_me-Linkedin-blue)[http://shields.io/](https://www.linkedin.com/in/matteogarza/)
+
 I'm Matteo, a frontend developer who breaks code, handles legacy stuff, and strokes keys all day (and sometimes nights).
 With 10+ years of experience, I've seen things that you humans and AIs could only imagine.
 
-I love also taking care of side projects.
+I love also taking care of side projects (not coding-related).
 
 ### GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CoachGodzup&show_icons=true&theme=transparent&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoachGodzup&layout=pie&theme=transparent&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoachGodzup&layout=donut&theme=transparent&hide_border=true)
 
 ### Community
 
