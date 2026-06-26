@@ -9,7 +9,7 @@ I love also taking care of side projects.
 ### GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CoachGodzup&show_icons=true&theme=transparent&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoachGodzup&layout=compact&theme=transparent&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoachGodzup&layout=pie&theme=transparent&hide_border=true)
 
 ### Community
 
