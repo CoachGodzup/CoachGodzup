@@ -1,7 +1,7 @@
 # Matteo Garza
 > "Professional Key Stroker & Streamer — breaking pipelines since 2014"
 
-![Join me](https://img.shields.io/badge/Join_me-Linkedin-blue)[http://shields.io/](https://www.linkedin.com/in/matteogarza/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteogarza/)
 
 I'm Matteo, a frontend developer who breaks code, handles legacy stuff, and strokes keys all day (and sometimes nights).
 With 10+ years of experience, I've seen things that you humans and AIs could only imagine.
