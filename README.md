@@ -39,9 +39,12 @@ I love also taking care of side projects (not coding-related).
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-FF6600?style=for-the-badge&logo=anthropic&logoColor=white)
-![Deepseek](https://img.shields.io/badge/deepseek?style=for-the-badge&logo=deepseek&logoColor=white)
 
-
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
+![MistralAI](https://img.shields.io/badge/mistralai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+![Google Deepmind](https://img.shields.io/badge/deepmind-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
 
 **Testing & Tooling**  
 
